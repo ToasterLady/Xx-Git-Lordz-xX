@@ -28,8 +28,10 @@
     
     <body>
         <div class="head-div">
-            <a id="home-link" style="font-size:30px">Oscar Info</a>
-        </div>
+            <a id="home-link" style="font-size:30px" href='http://oscarinfo-com.stackstaging.com/'>Oscar Info</a><br>
+            <a id="head-link" href='documentation.html' style="font-size:12px">API Documentation</a> | <a id="head-link" href='https://github.com/ToasterLady/Xx-Git-Lordz-xX' style="font-size:12px">Source Files</a><br>
+        </div><br>
+        
 
         <div id="drop-menu">
             

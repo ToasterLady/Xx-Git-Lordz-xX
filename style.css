@@ -21,6 +21,11 @@ header
     
 }
 
+#head-link{
+    text-decoration: none;
+    color: #fff;
+}
+
 #home-link{
     text-decoration: none;
     color: #fff;
